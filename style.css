@@ -183,15 +183,6 @@ a.nav-item.nav-link.text-light.active
 {
     color: lightskyblue;
 }
-
-#loading
-{
-    position: fixed;
-    width: 100%;
-    height: 100vh;
-    background: #00004d url('images/Disk-1s-200px.gif') no-repeat center;
-    z-index: 99999;
-}
   
 #gt6
 {
