@@ -77,7 +77,7 @@ body
 .exp
 {
     color: whitesmoke;
-    font-size: 23px;
+    font-size: 1.25rem;
     font-family: 'Baloo Da 2', cursive;
 }
 
@@ -95,7 +95,7 @@ body
 
 .tc
 {
-    height: 330px;
+    height: 17rem;
 }
 
 
